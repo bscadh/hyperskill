@@ -1,0 +1,55 @@
+hyperskill_project:
+  id: 98
+  ide_files: https://hyperskill.org/api/projects/98/additional-files/additional_files.json
+  is_template_based: true
+  use_ide: true
+  environment: unittest
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 539
+    step: 8815
+    is_completed: true
+  - id: 540
+    step: 8816
+    is_completed: true
+  - id: 541
+    step: 8817
+    is_completed: true
+  - id: 542
+    step: 8818
+    is_completed: true
+topics:
+  0:
+    - title: Introduction to Python
+      theory_id: 5204
+    - title: Multi-line programs
+      theory_id: 5233
+  1:
+    - title: Basic data types
+      theory_id: 5852
+    - title: Quotes and multi-line strings
+      theory_id: 5814
+  2:
+    - title: Taking user's input
+      theory_id: 5913
+    - title: Variables
+      theory_id: 5859
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 5865
+    - title: Invoking functions
+      theory_id: 5891
+    - title: List
+      theory_id: 5979
+    - title: Indexes
+      theory_id: 6189
+  3:
+    - title: Program with numbers
+      theory_id: 5872
+    - title: If statement
+      theory_id: 5953
+    - title: While loop
+      theory_id: 5940
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
